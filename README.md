@@ -7,7 +7,7 @@
 
 ```shell
 bash -c "$(wget -qO- https://doncom.me/install.sh)"
-``
+```
 <!--
 **mgrl39/mgrl39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
