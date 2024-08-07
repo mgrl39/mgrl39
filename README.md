@@ -19,7 +19,7 @@ bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
 **(Developing): Francinette Image in sgoinfre**
 ```shell
-bash -c "$(wget -qO- doncom.me/francinette-image.sh)"
+bash -c "$(wget -qO- doncom.me/francinette-sgoinfre.sh)"
 ```
 
 <!--
