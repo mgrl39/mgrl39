@@ -17,6 +17,10 @@ bash -c "$(wget -qO- doncom.me/cursus.sh)"
 ```shell
 bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
+**(Developing): Francinette Image in sgoinfre**
+```shell
+bash -c "$(wget -qO- doncom.me/francinette-image.sh)"
+```
 
 <!--
 **mgrl39/mgrl39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
