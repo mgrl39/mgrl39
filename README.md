@@ -6,19 +6,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,java,php,c,html,css,postgresql,mysql)](https://github.com/mgrl39)
 
-**(Developing) Libft**
 ```shell
 bash -c "$(wget -qO- doncom.me/libftrev.sh)"
 ```
 ```shell
 bash -c "$(wget -qO- doncom.me/cursus.sh)"
 ```
-
-**(Developing): Push_swap**
 ```shell
 bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
-**(Developing): Francinette Image in sgoinfre**
 ```shell
 bash -c "$(wget -qO- doncom.me/francinette-sgoinfre.sh)"
 ```
