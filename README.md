@@ -5,11 +5,21 @@
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,java,php,c,html,css,postgresql,mysql)](https://github.com/mgrl39)
 -->
-libftrev.sh, cursus.sh, push_swap.sh, francinette-sgoinfre.sh
+
+
 ```shell
 bash -c "$(wget -qO- doncom.me/libftrev.sh)"
 ```
-https://www.doncom.me/Born2BeRoot
+```shell
+bash -c "$(wget -qO- doncom.me/cursus.sh)"
+```
+```shell
+bash -c "$(wget -qO- doncom.me/push_swap.sh)"
+```
+
+[B2BR](https://www.doncom.me/Born2BeRoot)
+
+
 <!--
 ```shell
 bash -c "$(wget -qO- doncom.me/cursus.sh)"
