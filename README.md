@@ -1,9 +1,9 @@
-## Hi there 👋
-
+## ❓
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgrl39&label=Profile%20views&color=0e75b6&style=flat" alt="mgrl39" /> </p>
 
 [![For now...](https://skillicons.dev/icons?i=linux,bash,git,vim,c)](https://github.com/mgrl39)
-
+-->
 <!--
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,java,php,c,html,css,postgresql,mysql)](https://github.com/mgrl39)
