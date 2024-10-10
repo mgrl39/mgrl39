@@ -13,13 +13,14 @@
 ```shell
 bash -c "$(wget -qO- doncom.me/libftrev.sh)"
 ```
+<!--
 ```shell
 bash -c "$(wget -qO- doncom.me/cursus.sh)"
 ```
 ```shell
 bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
-
+-->
 [B2BR](https://www.doncom.me/Born2BeRoot)
 
 
