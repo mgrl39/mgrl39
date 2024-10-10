@@ -21,7 +21,6 @@ bash -c "$(wget -qO- doncom.me/cursus.sh)"
 bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
 -->
-* [B2BR](https://www.doncom.me/Born2BeRoot)
 
 
 <!--
@@ -35,6 +34,7 @@ bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 bash -c "$(wget -qO- doncom.me/francinette-sgoinfre.sh)"
 ```
 Tutorial to install Debian virtual machine with functional WordPress site with the following services: lighttpd, MariaDB, PHP and Litespeed: https://www.doncom.me/Born2BeRoot
+* [B2BR](https://www.doncom.me/Born2BeRoot)
 -->
 <!--
 **mgrl39/mgrl39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
