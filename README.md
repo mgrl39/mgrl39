@@ -21,7 +21,7 @@ bash -c "$(wget -qO- doncom.me/cursus.sh)"
 bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
 -->
-[B2BR](https://www.doncom.me/Born2BeRoot)
+* [B2BR](https://www.doncom.me/Born2BeRoot)
 
 
 <!--
