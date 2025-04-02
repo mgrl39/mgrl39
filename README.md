@@ -21,7 +21,7 @@ bash -c "$(wget -qO- doncom.me/cursus.sh)"
 bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
 -->
-
+   
 
 <!--
 ```shell
