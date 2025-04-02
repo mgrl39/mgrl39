@@ -57,12 +57,14 @@ Here are some ideas to get you started:
 - [{{.Repo.Name}}]({{.Repo.URL}}) — {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+<!--
 ---
 
 #### 🚀 Últimos lanzamientos con mi participación
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) · [{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}} — {{.Description}}
 {{- end}}
+-->
 
 <!--
 #### 📓 Mis gists
