@@ -25,7 +25,6 @@ bash -c "$(wget -qO- doncom.me/push_swap.sh)"
 ```
 -->
 
-
 <!--
 ```shell
 bash -c "$(wget -qO- doncom.me/cursus.sh)"
@@ -52,7 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 #### 🛠 Proyectos recientes
 {{range recentContributions 5}}
