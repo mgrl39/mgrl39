@@ -14,6 +14,7 @@
 ```shell
 bash -c "$(wget -qO- doncom.me/libftrev.sh)"
 ```
+
 <!--
 ```shell
 bash -c "$(wget -qO- doncom.me/cursus.sh)"
@@ -64,3 +65,7 @@ Here are some ideas to get you started:
 - [{{.Name}}]({{.URL}}) · [{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}} — {{.Description}}
 {{- end}}
 
+#### 📓 Mis gists
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
