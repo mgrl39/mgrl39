@@ -10,9 +10,11 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,java,php,c,html,css,postgresql,mysql)](https://github.com/mgrl39)
 -->
 
+<!--
 ```shell
 bash -c "$(wget -qO- doncom.me/libftrev.sh)"
 ```
+-->
 
 <!--
 ```shell
