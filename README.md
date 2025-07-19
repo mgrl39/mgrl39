@@ -14,11 +14,11 @@
 
 #### 🛠 Proyectos recientes
 
-- [mgrl39/42utils](https://github.com/mgrl39/42utils) —  (1 day ago)
-- [mgrl39/puigsounds](https://github.com/mgrl39/puigsounds) — ionic serve (2 days ago)
-- [mgrl39/philo-utils](https://github.com/mgrl39/philo-utils) — how forks are assigned to each philosopher to avoid deadlock (3 days ago)
-- [mgrl39/kaizen](https://github.com/mgrl39/kaizen) — An elegant cinema management platform featuring movie catalogs, show scheduling, and booking capabilities with a modern responsive interface. (4 days ago)
-- [mgrl39/new-philoprivate](https://github.com/mgrl39/new-philoprivate) — The dinning philosophers problem using the C language with the pthreads library (5 days ago)
+- [mgrl39/42utils](https://github.com/mgrl39/42utils) —  (2 days ago)
+- [mgrl39/puigsounds](https://github.com/mgrl39/puigsounds) — ionic serve (3 days ago)
+- [mgrl39/philo-utils](https://github.com/mgrl39/philo-utils) — how forks are assigned to each philosopher to avoid deadlock (4 days ago)
+- [mgrl39/kaizen](https://github.com/mgrl39/kaizen) — An elegant cinema management platform featuring movie catalogs, show scheduling, and booking capabilities with a modern responsive interface. (5 days ago)
+- [mgrl39/new-philoprivate](https://github.com/mgrl39/new-philoprivate) — The dinning philosophers problem using the C language with the pthreads library (6 days ago)
 
 
 
