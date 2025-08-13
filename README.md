@@ -14,11 +14,11 @@
 
 #### 🛠 Proyectos recientes
 
-- [mgrl39/cpp00](https://github.com/mgrl39/cpp00) —  (1 day ago)
-- [mgrl39/MLX42docs](https://github.com/mgrl39/MLX42docs) — Automatically generates web-based documentation for Codam&#39;s MLX42 library using Doxygen. (2 days ago)
-- [mgrl39/netkit](https://github.com/mgrl39/netkit) — General guide to let you discover networking. (6 days ago)
+- [mgrl39/cpp00](https://github.com/mgrl39/cpp00) —  (2 days ago)
+- [mgrl39/MLX42docs](https://github.com/mgrl39/MLX42docs) — Automatically generates web-based documentation for Codam&#39;s MLX42 library using Doxygen. (3 days ago)
+- [mgrl39/netkit](https://github.com/mgrl39/netkit) — General guide to let you discover networking. (1 week ago)
 - [mgrl39/schoolmanager](https://github.com/mgrl39/schoolmanager) —  (1 week ago)
-- [mgrl39/42utils](https://github.com/mgrl39/42utils) —  (1 week ago)
+- [mgrl39/42utils](https://github.com/mgrl39/42utils) —  (2 weeks ago)
 
 
 
