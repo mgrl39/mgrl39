@@ -14,7 +14,7 @@
 
 #### 🛠 Proyectos recientes
 
-- [mgrl39/kaizen](https://github.com/mgrl39/kaizen) — An elegant cinema management platform featuring movie catalogs, show scheduling, and booking capabilities with a modern responsive interface. (2 weeks ago)
+- [mgrl39/kaizen](https://github.com/mgrl39/kaizen) — An elegant cinema management platform featuring movie catalogs, show scheduling, and booking capabilities with a modern responsive interface. (3 weeks ago)
 - [mgrl39/codedex](https://github.com/mgrl39/codedex) —  (1 month ago)
 - [mgrl39/cpp00](https://github.com/mgrl39/cpp00) —  (1 month ago)
 - [mgrl39/kodekloud](https://github.com/mgrl39/kodekloud) — https://studio.kodekloud.com/labs (1 month ago)
