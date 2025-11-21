@@ -14,9 +14,9 @@
 
 #### 🛠 Proyectos recientes
 
-- [mgrl39/cpp02](https://github.com/mgrl39/cpp02) —  (4 days ago)
-- [mgrl39/cpp01](https://github.com/mgrl39/cpp01) — 90/100, but the .replace does not return the file with .replace, i forgot the &#34;.&#34; | And if its empty file does the file too and idk maybe is good to do not create bc is anything to replace idk. Maybe is good to check the replace one, No AI btw (1 week ago)
-- [midudev/bigibai-2025](https://github.com/midudev/bigibai-2025) — Proyecto de Big Ibai 2025 (2 weeks ago)
+- [mgrl39/cpp02](https://github.com/mgrl39/cpp02) —  (5 days ago)
+- [mgrl39/cpp01](https://github.com/mgrl39/cpp01) — 90/100, but the .replace does not return the file with .replace, i forgot the &#34;.&#34; | And if its empty file does the file too and idk maybe is good to do not create bc is anything to replace idk. Maybe is good to check the replace one, No AI btw (2 weeks ago)
+- [midudev/bigibai-2025](https://github.com/midudev/bigibai-2025) — Proyecto de Big Ibai 2025 (3 weeks ago)
 - [mgrl39/cpp00](https://github.com/mgrl39/cpp00) — 80/100, maybe you can find some mistake. I didnt use AI so im happy with this project c: (3 weeks ago)
 - [Telefonica/prometheus-kafka-adapter](https://github.com/Telefonica/prometheus-kafka-adapter) — Use Kafka as a remote storage database for Prometheus (remote write only) (1 month ago)
 
