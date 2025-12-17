@@ -14,10 +14,10 @@
 
 #### 🛠 Proyectos recientes
 
-- [mgrl39/cpp04](https://github.com/mgrl39/cpp04) —  (today)
+- [mgrl39/cpp04](https://github.com/mgrl39/cpp04) —  (1 day ago)
 - [mgrl39/netpractice](https://github.com/mgrl39/netpractice) — my netpractice&#39;s files, that&#39;s it. (1 week ago)
 - [mgrl39/cpp03](https://github.com/mgrl39/cpp03) — otro proyecto aprobaado, me ha gustado la verdad. Cuando evalue a la people hay que ver si su takeDamage esta cubierto por el if de hitpoiint (1 week ago)
-- [mgrl39/cpp02](https://github.com/mgrl39/cpp02) — esta bien, aprobe pero deberia reentregarlo con wall wextra werror y con el commit de poniendo  nombre en el header que realmente no fa falta sabes (lo entregue sin los dos ultimos commits) (1 week ago)
+- [mgrl39/cpp02](https://github.com/mgrl39/cpp02) — esta bien, aprobe pero deberia reentregarlo con wall wextra werror y con el commit de poniendo  nombre en el header que realmente no fa falta sabes (lo entregue sin los dos ultimos commits) (2 weeks ago)
 - [mgrl39/cpp01](https://github.com/mgrl39/cpp01) — 90/100, but the .replace does not return the file with .replace, i forgot the &#34;.&#34; | And if its empty file does the file too and idk maybe is good to do not create bc is anything to replace idk. Maybe is good to check the replace one, No AI btw (1 month ago)
 
 
